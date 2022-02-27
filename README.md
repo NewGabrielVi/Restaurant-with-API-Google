@@ -1,4 +1,4 @@
-###A code based on Digital Innovation One, this code uses React with a Google API to find restaurants nearby.
+#  A code based on Digital Innovation One, this code uses React with a Google API to find restaurants nearby.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
